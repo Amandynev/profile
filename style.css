@@ -30,7 +30,8 @@ h2 {
   font-size: 20px;
 }
 
-.img-circle{
+.img-circle {
+  width: 100px;
   border-radius: 50% 20% / 10% 40%;
 }
 
